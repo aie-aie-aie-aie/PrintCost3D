@@ -1,0 +1,21 @@
+svg
+<svg xmlns="http://www.w3.org/2000/svg"
+width="512" height="512" viewBox="0 0 512 512">
+
+<rect width="512" height="512" rx="110" fill="#101827"/>
+
+<rect x="95" y="130" width="322" height="250"
+rx="35" fill="#1b283b" stroke="#2788ff" stroke-width="12"/>
+
+<path d="M170 185 H340 V325 H170 Z"
+fill="none" stroke="#2788ff" stroke-width="22"/>
+
+<path d="M170 185 L255 240 L340 185"
+fill="none" stroke="#55a8ff" stroke-width="18"/>
+
+<path d="M170 325 L255 270 L340 325"
+fill="none" stroke="#55a8ff" stroke-width="18"/>
+
+<circle cx="255" cy="255" r="35" fill="#36ce91"/>
+
+</svg>
