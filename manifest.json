@@ -1,0 +1,20 @@
+json
+{
+  "name": "PrintCost 3D",
+  "short_name": "PrintCost",
+  "description": "Calculateur de rentabilité impression 3D",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
